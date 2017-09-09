@@ -29,7 +29,7 @@ But how does Kotlin compiler make this happen? In this talk, we'll explore Kotli
 
 * [Kotlin: Uncovered (DroidCon Boston) - Victoria Gonda ](https://slideslive.com/38900603/kotlin-uncovered)
 * [Kotlin Fundamentals - Pluralsight - Kevin Jones](https://app.pluralsight.com/library/courses/kotlin-fundamentals/table-of-contents)
-* [Kotlin Bytecode Generation and Runtime Performance]- (https://vimeo.com/171765019)
+* [Kotlin Bytecode Generation and Runtime Performance](https://vimeo.com/171765019)
 
 #### Tools
 * [Bytecode Viewer](https://github.com/borisf/classyshark-bytecode-viewer)
