@@ -1,12 +1,12 @@
 package example_03
 
-@JvmOverloads
-fun DefaultArgumentTest(x : Int = 42){
+//@JvmOverloads
+fun DefaultArgumentFunction(x : Int = 42){
     println(x)
 }
 
-fun bar(){
-    DefaultArgumentTest()
+fun testDefaultArgument(){
+    DefaultArgumentFunction()
 
-    DefaultArgumentTest(x = 100)
+    DefaultArgumentFunction(x = 100)
 }
