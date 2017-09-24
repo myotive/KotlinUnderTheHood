@@ -1,4 +1,4 @@
-@file:JvmName("MeaningfulClassName")
+//@file:JvmName("MeaningfulClassName")
 
 package example_01
 
