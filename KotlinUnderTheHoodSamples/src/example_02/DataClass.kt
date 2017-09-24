@@ -2,6 +2,7 @@ package example_02
 
 data class User(val firstName : String, val lastName : String)
 
+// region Synthetic Copy and De-structure example
 /**
  * Synthetic Copy Example
  * Decompile to see how Java uses synthetic copy method under the covers to allow you to
@@ -29,3 +30,5 @@ data class User(val firstName : String, val lastName : String)
     println(firstName)
     println(lastName)
 }*/
+
+// endregion

@@ -8,6 +8,8 @@ fun nulls(){
     println(foo?.length)
 }
 
+// region Alternate Examples
+
 /*fun nulls(){
 
     val foo : String? = "Hello"
@@ -23,18 +25,18 @@ fun nulls(){
     println(foo?.length)
 }*/
 
-/*
-fun nulls(foo : String?){
+/*fun nulls(foo : String?){
 
     // elvis operator
     val result = foo?.length ?: -1
 
     println(result)
-}
-*/
+}*/
 
 /*
 fun nulls(foo : String?){
     println(foo!!.length)
 }
 */
+
+// endregion
