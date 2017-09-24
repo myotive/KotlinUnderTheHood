@@ -26,6 +26,7 @@ But how does Kotlin compiler make this happen? In this talk, we'll explore Kotli
 * [Kotlin: Uncovered - Part 3 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/05/24/kotlin-uncovered-part-3)
 * [Kotlin: Uncovered - Part 4 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/06/06/kotlin-uncovered-part-4)
 * [Kotlin: Uncovered - Part 5 - Victoria Gonda](https://collectiveidea.com/blog/archives/2017/06/20/kotlin-uncovered-part-5)
+* [Kotlin's hidden costs - Android benchmarks](https://willowtreeapps.com/ideas/kotlins-hidden-costs-android-benchmarks)
 
 * [Kotlin: Uncovered (DroidCon Boston) - Victoria Gonda ](https://slideslive.com/38900603/kotlin-uncovered)
 * [Kotlin Fundamentals - Pluralsight - Kevin Jones](https://app.pluralsight.com/library/courses/kotlin-fundamentals/table-of-contents)
